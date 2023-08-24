@@ -1,0 +1,95 @@
+body{
+	font-family: Andale Mono, monospace;
+	background: #dbd4ce;
+	background-image: url(../Components/Imagens/cozinha.jpg);
+	background-repeat: no-repeat;
+	align-items: center;
+	
+}
+
+#cabecalho{
+    width: 100%;
+    height: 5%;
+	padding: 0.1px;
+    background-color: #fff;
+		
+}
+
+	#cabecalho ul li {
+		display: inline-block;
+		
+
+	}
+
+	#cabecalho ul li a {
+		color: rgb(0, 0, 0);
+		padding: 10px;
+		text-decoration: none;
+		
+		
+	}
+.logo{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.corLogo{
+    color: #ffbd08;
+	text-align: center;	
+	font-size: 50px;
+}
+.pdecima{
+	margin-left: 10%;
+    margin-right: 10%;
+	padding-bottom: 10px;
+	padding-top: 15px;
+	
+}
+
+.color {
+	text-align: center;
+	color: #f30909;
+	margin-left: 17px;
+	padding-left: 400px;
+	font-size: 90px;
+}
+
+.colorR {
+	color: #000000;
+}
+.colordiv{
+	color: #000;
+	align-items: center;
+	
+}
+.alignform {
+	align-items: center;
+}
+#espacamento{
+
+	padding-left: 5px;
+}
+.logo img{
+	width: 150px;
+    height: 200px;
+    margin-right: 10px;
+		
+}
+#header{
+	height: 10px;
+	line-height: 10px;
+	margin-top: 0.5px;
+	
+}
+
+.detalhes-button {
+    background-color: #f70606;
+    color: 000;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
