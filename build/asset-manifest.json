@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1aa41a4.css",
+    "main.js": "/static/js/main.85b6cd48.js",
+    "static/media/cozinha.jpg": "/static/media/cozinha.c1cff6ce6985c858fa2c.jpg",
+    "static/media/lasanha.png": "/static/media/lasanha.ddb75798b2031f4953fe.png",
+    "index.html": "/index.html",
+    "main.b1aa41a4.css.map": "/static/css/main.b1aa41a4.css.map",
+    "main.85b6cd48.js.map": "/static/js/main.85b6cd48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1aa41a4.css",
+    "static/js/main.85b6cd48.js"
+  ]
+}
